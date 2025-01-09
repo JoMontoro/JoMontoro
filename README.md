@@ -1,4 +1,4 @@
-## <img src="https://media.giphy.com/media/H54feNXf6i4eAQubud/giphy.gif" alt="GIF de Giphy" width="100"/> Bienvenid@ al GitHub de Jose Montoro
+  ## 👋 Bienvenid@ al GitHub de Jose Montoro <img src="https://media.giphy.com/media/H54feNXf6i4eAQubud/giphy.gif" alt="GIF de Giphy" width="70" style="border-radius: 20px"/>
 
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -9,6 +9,10 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 #
+### 📊 Profile stats
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?JoMontoro=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+
