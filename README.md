@@ -1,4 +1,4 @@
-  ## 👋 Bienvenid@ al GitHub de Jose Montoro <img src="https://media.giphy.com/media/H54feNXf6i4eAQubud/giphy.gif" alt="GIF de Giphy" width="70"/>
+  ## 👋 Bienvenid@ al GitHub de Jose Montoro <img src="https://media.giphy.com/media/H54feNXf6i4eAQubud/giphy.gif" alt="GIF de Giphy" width="70" border-radius="50px"/>
 
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
