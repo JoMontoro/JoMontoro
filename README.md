@@ -1,6 +1,7 @@
 ## 👋 Bienvenid@ al GitHub de Jose Montoro <img src="https://media.giphy.com/media/H54feNXf6i4eAQubud/giphy.gif" alt="GIF de Giphy"  width="50" style="border-radius: 50px; border: 5px solid black;" />
 
 📌 Información Personal
+
 🎓 Estudiante de Ingeniería de Sistemas e Informática
 
 📅 Actualmente en el séptimo ciclo de la carrera
