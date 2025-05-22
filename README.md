@@ -1,5 +1,12 @@
 ## 👋 Bienvenid@ al GitHub de Jose Montoro <img src="https://media.giphy.com/media/H54feNXf6i4eAQubud/giphy.gif" alt="GIF de Giphy"  width="50" style="border-radius: 50px; border: 5px solid black;" />
 
+###📌 Información Personal
+🎓 Estudiante de Ingeniería de Sistemas e Informática
+
+📅 Actualmente en el séptimo ciclo de la carrera
+
+🧠 Apasionado por la tecnología, el desarrollo de software y la innovación
+
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
