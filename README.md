@@ -2,11 +2,11 @@
 
 📌 Información Personal
 
-🎓 Estudiante de Ingeniería de Sistemas e Informática
+	🎓 Estudiante de Ingeniería de Sistemas e Informática
 
-📅 Actualmente en el séptimo ciclo de la carrera
+	📅 Actualmente en el séptimo ciclo de la carrera
 
-🧠 Apasionado por la tecnología, el desarrollo de software y la innovación
+	🧠 Apasionado por la tecnología, el desarrollo de software y la innovación
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
