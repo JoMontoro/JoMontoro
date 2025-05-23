@@ -1,6 +1,6 @@
 ## 👋 Bienvenid@ al GitHub de Jose Montoro <img src="https://media.giphy.com/media/H54feNXf6i4eAQubud/giphy.gif" alt="GIF de Giphy"  width="50" style="border-radius: 50px; border: 5px solid black;" />
 
-## Información Personal
+### Información Personal
 
 	 Estudiante de Ingeniería de Sistemas e Informática
 
@@ -8,13 +8,13 @@
 
 	 Apasionado por la tecnología, el desarrollo de software y la innovación
  
-## Experiencia Académica
+### Experiencia Académica
 
 	 Integración de tecnologías backend y frontend en entornos reales de práctica
  
 	Participación activa en proyectos académicos grupales e individuales
  
-## Objetivos Profesionales
+### Objetivos Profesionales
 
 	 Seguir profundizando en desarrollo full stack
 
