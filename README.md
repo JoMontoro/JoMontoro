@@ -2,9 +2,9 @@
 
 #### Información Personal
 
-	 Estudiante de Ingeniería de Sistemas e Informática
+	## Estudiante de Ingeniería de Sistemas e Informática
 
-	 Actualmente en el séptimo ciclo de la carrera
+	##### Actualmente en el séptimo ciclo de la carrera
 
 	 Apasionado por la tecnología, el desarrollo de software y la innovación
  
