@@ -1,26 +1,26 @@
 ## 👋 Bienvenid@ al GitHub de Jose Montoro <img src="https://media.giphy.com/media/H54feNXf6i4eAQubud/giphy.gif" alt="GIF de Giphy"  width="50" style="border-radius: 50px; border: 5px solid black;" />
 
-📌 Información Personal
+ #Información Personal
 
-	🎓 Estudiante de Ingeniería de Sistemas e Informática
+	 Estudiante de Ingeniería de Sistemas e Informática
 
-	📅 Actualmente en el séptimo ciclo de la carrera
+	 Actualmente en el séptimo ciclo de la carrera
 
-	🧠 Apasionado por la tecnología, el desarrollo de software y la innovación
+	 Apasionado por la tecnología, el desarrollo de software y la innovación
  
- 💼 Experiencia Académica
+  #Experiencia Académica
 
-	🔄 Integración de tecnologías backend y frontend en entornos reales de práctica
+	 Integración de tecnologías backend y frontend en entornos reales de práctica
  
-	👨‍💻Participación activa en proyectos académicos grupales e individuales
+	Participación activa en proyectos académicos grupales e individuales
  
-🎯 Objetivos Profesionales
+ #Objetivos Profesionales
 
-	🔍 Seguir profundizando en desarrollo full stack
+	 Seguir profundizando en desarrollo full stack
 
-	🚀 Participar en proyectos reales que aporten valor social o empresarial
+	 Participar en proyectos reales que aporten valor social o empresarial
 
-	🌱 Aprender tecnologías emergentes como inteligencia artificial y blockchain
+	 Aprender tecnologías emergentes como inteligencia artificial y blockchain
 
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
