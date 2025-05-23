@@ -8,13 +8,13 @@
 
 	 Apasionado por la tecnología, el desarrollo de software y la innovación
  
-### Experiencia Académica
+#### Experiencia Académica
 
 	 Integración de tecnologías backend y frontend en entornos reales de práctica
  
 	Participación activa en proyectos académicos grupales e individuales
  
-### Objetivos Profesionales
+#### Objetivos Profesionales
 
 	 Seguir profundizando en desarrollo full stack
 
