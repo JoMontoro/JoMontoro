@@ -2,7 +2,7 @@
 
 #### Información Personal
 
-	 Estudiante de Ingeniería de Sistemas e Informática
+ ##### Estudiante de Ingeniería de Sistemas e Informática
 
 	 Actualmente en el séptimo ciclo de la carrera
 
