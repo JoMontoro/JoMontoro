@@ -2,25 +2,25 @@
 
 #### Información Personal
 
- ##### Estudiante de Ingeniería de Sistemas e Informática
+ ##### 1. Estudiante de Ingeniería de Sistemas e Informática
 
-	 Actualmente en el séptimo ciclo de la carrera
+ ##### 2. Actualmente en el séptimo ciclo de la carrera
 
-	 Apasionado por la tecnología, el desarrollo de software y la innovación
+ ##### 3. Apasionado por la tecnología, el desarrollo de software y la innovación
  
 #### Experiencia Académica
 
-	 Integración de tecnologías backend y frontend en entornos reales de práctica
+ ##### a. Integración de tecnologías backend y frontend en entornos reales de práctica
  
-	Participación activa en proyectos académicos grupales e individuales
+ ##### b. Participación activa en proyectos académicos grupales e individuales
  
 #### Objetivos Profesionales
 
-	 Seguir profundizando en desarrollo full stack
+ ##### 1. Seguir profundizando en desarrollo full stack
 
-	 Participar en proyectos reales que aporten valor social o empresarial
+ ##### 2. Participar en proyectos reales que aporten valor social o empresarial
 
-	 Aprender tecnologías emergentes como inteligencia artificial y blockchain
+ ##### 3. Aprender tecnologías emergentes como inteligencia artificial y blockchain
 
 #
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
